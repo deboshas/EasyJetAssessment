@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EasyJet.UnitTest/obj
+/EasyJet.UnitTest/bin/Debug/netcoreapp3.1
+/EasyJet/obj
+/EasyJet/bin/Debug/netcoreapp3.1
+/EasyJet/.vs/EasyJet
